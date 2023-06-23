@@ -5,7 +5,7 @@ export default defineUserConfig({
   base: "/docs/",
 
   lang: "zh-CN",
-  title: "dongkcs",
+  title: "dongkcs文档",
   description: "dongkcs",
 
   theme,
