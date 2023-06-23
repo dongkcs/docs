@@ -42,4 +42,3 @@ jobs:
           branch: gh-pages
           folder: src/.vuepress/dist
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          single-commit: true
